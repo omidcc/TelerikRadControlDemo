@@ -1,0 +1,11 @@
+G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\bin\TelerikWebAppInlineGrid.dll.config
+G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\bin\TelerikWebAppInlineGrid.dll
+G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\bin\TelerikWebAppInlineGrid.pdb
+G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\bin\Telerik.Web.Device.Detection.dll
+G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\bin\Telerik.Web.UI.dll
+G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\bin\Telerik.Web.UI.Skins.dll
+G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\bin\Telerik.Web.Device.Detection.xml
+G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\bin\Telerik.Web.UI.xml
+G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\obj\Debug\TelerikWebAppInlineGrid.csprojResolveAssemblyReference.cache
+G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\obj\Debug\TelerikWebAppInlineGrid.dll
+G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\obj\Debug\TelerikWebAppInlineGrid.pdb

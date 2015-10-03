@@ -1,0 +1,27 @@
+﻿.demo-container {
+    height: 100%;
+    padding: 10px;
+}
+ 
+.body
+{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    background-color: #FFFFE0;
+}
+.grid td
+{
+    cursor: pointer;
+}
+.grid
+{
+    height: 300px;
+}
+ 
+.saveBtn, .deleteBtn
+{
+    float: right;
+    margin-right: 10px;
+}
