@@ -9,3 +9,9 @@ G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\bin\Telerik.Web.UI.xml
 G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\obj\Debug\TelerikWebAppInlineGrid.csprojResolveAssemblyReference.cache
 G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\obj\Debug\TelerikWebAppInlineGrid.dll
 G:\TelerikWebAppInlineGrid\TelerikWebAppInlineGrid\obj\Debug\TelerikWebAppInlineGrid.pdb
+D:\telerikWebControlGrid\TelerikRadControlDemo\TelerikWebAppInlineGrid\bin\TelerikWebAppInlineGrid.dll.config
+D:\telerikWebControlGrid\TelerikRadControlDemo\TelerikWebAppInlineGrid\bin\TelerikWebAppInlineGrid.dll
+D:\telerikWebControlGrid\TelerikRadControlDemo\TelerikWebAppInlineGrid\bin\TelerikWebAppInlineGrid.pdb
+D:\telerikWebControlGrid\TelerikRadControlDemo\TelerikWebAppInlineGrid\obj\Debug\TelerikWebAppInlineGrid.dll.licenses
+D:\telerikWebControlGrid\TelerikRadControlDemo\TelerikWebAppInlineGrid\obj\Debug\TelerikWebAppInlineGrid.dll
+D:\telerikWebControlGrid\TelerikRadControlDemo\TelerikWebAppInlineGrid\obj\Debug\TelerikWebAppInlineGrid.pdb
